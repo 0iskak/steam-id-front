@@ -12,5 +12,5 @@
     ```
     git clone https://github.com/0iskak/steam-id-front.git
     ```
-4. Go to project's root directory and run by `./mvnw spring-boot:run`
+4. Go to project's root directory and run by `./mvnw spring-boot:run` \
 or `./mvnw package; java -jar app/build/libs/steam-id-front-0.0.1-SNAPSHOT.jar`
