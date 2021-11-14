@@ -13,6 +13,6 @@
     git clone https://github.com/0iskak/steam-id-front.git
     ```
 2. Go to project's root directory and run by `./mvnw spring-boot:run` \
-or `./mvnw package; java -jar app/build/libs/steam-id-front-0.0.1-SNAPSHOT.jar` \
+or `./mvnw package; java -jar target/steam-id-front-0.0.1-SNAPSHOT.jar` \
 (first run takes long time)
 3. You can access from http://localhost:8080/
