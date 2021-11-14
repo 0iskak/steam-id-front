@@ -1,6 +1,7 @@
 # steam-id-front https://steam-id-front.herokuapp.com/
 ## About
 #### A frontend for https://github.com/0iskak/steam-id-back/
+Web application that helps to get Steam profile's general information from custom url or steam id
 ### Built With JDK 17 and
 * [Maven](https://maven.apache.org/)
 * [Spring Boot](https://spring.io/projects/spring-boot)
