@@ -8,10 +8,11 @@
 * [Lombok](https://projectlombok.org/)
 * [Jackson](https://github.com/FasterXML/jackson)
 ## Getting Started
-2. Clone the repo
+1. Clone the repo
     ```
     git clone https://github.com/0iskak/steam-id-front.git
     ```
-4. Go to project's root directory and run by `./mvnw spring-boot:run` \
+2. Go to project's root directory and run by `./mvnw spring-boot:run` \
 or `./mvnw package; java -jar app/build/libs/steam-id-front-0.0.1-SNAPSHOT.jar` \
 (first run takes long time)
+3. You can access from http://localhost:8080/
