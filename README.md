@@ -1,4 +1,4 @@
-# steam-id-front https://steam-id-front.herokuapp.com/
+# Steam ID Finder https://steam-id-front.herokuapp.com/
 ## About
 #### A frontend for https://github.com/0iskak/steam-id-back/
 Web application that helps to get Steam profile's general information from custom url or steam id
