@@ -26,7 +26,7 @@ import java.util.Date;
 @UIScope
 @SpringComponent
 public class Data extends VerticalLayout {
-    private final String API = "https://steam-id-back.herokuapp.com/profile/";
+    private final String API = "http://34.118.68.215/profile/";
     @Getter
     private JsonNode json;
 
