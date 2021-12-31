@@ -26,7 +26,7 @@ import java.util.Date;
 @UIScope
 @SpringComponent
 public class Data extends VerticalLayout {
-    private final String API = "http://localhost/profile/";
+    private final String API = "http://localhost:8002/profile/";
     @Getter
     private JsonNode json;
 
